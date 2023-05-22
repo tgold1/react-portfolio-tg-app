@@ -1,14 +1,14 @@
 import React, {useState} from 'react';
-import {Document, Page} from 'react-pdf/dist/esm/entry.webpack5'
+// import {Document, Page} from 'react-pdf/dist/esm/entry.webpack5'
 
-function MyApp() {
-  const [numPages, setNumPages] = useState(null);
-  const [pageNumber, setPageNumber] = useState(1);
+// function MyApp() {
+//   const [numPages, setNumPages] = useState(null);
+//   const [pageNumber, setPageNumber] = useState(1);
 
-  function onDocumentLoadSuccess({numPages}) {
-    setNumPages(numPages);
-  }
-}
+//   function onDocumentLoadSuccess({numPages}) {
+//     setNumPages(numPages);
+//   }
+// }
 export default function Home() {
   return (
     <div>
@@ -20,7 +20,7 @@ export default function Home() {
       <p>
         Page {pageNumber} of {numPages}
       </p> */}
-<a href="https://1drv.ms/w/s!AnzGKXC9XqbymAAb7d0O-BZmndDB?e=UWdEON">Download my resume here</a>
+<a href="https://1drv.ms/w/s!AnzGKXC9XqbymAAb7d0O-BZmndDB?e=UWdEON" target="_blank">Download my resume here</a>
       <h2>Front-End Proficiencies</h2>
       <p>
         . HTML<br/>
