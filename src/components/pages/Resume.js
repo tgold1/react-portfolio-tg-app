@@ -13,14 +13,14 @@ export default function Home() {
   return (
     <div>
       <h1>Resume</h1>
-
+      
       {/* <Document file="https://1drv.ms/w/s!AnzGKXC9XqbymAAb7d0O-BZmndDB?e=UWdEON" onLoadSuccess={onDocumentLoadSuccess}>
         <Page pageNumber={pageNumber}/>
       </Document>
       <p>
         Page {pageNumber} of {numPages}
       </p> */}
-
+<a href="https://1drv.ms/w/s!AnzGKXC9XqbymAAb7d0O-BZmndDB?e=UWdEON">Download my resume here</a>
       <h2>Front-End Proficiencies</h2>
       <p>
         . HTML<br/>

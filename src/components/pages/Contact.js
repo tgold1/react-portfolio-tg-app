@@ -35,6 +35,7 @@ export default function Form() {
     setName('');
     setEmail('');
     setMessage('');
+    setErrorMessage('');
   };
   return (
     <div>
@@ -45,7 +46,7 @@ export default function Form() {
           name='Name'
           onChange={handleInputChange}
           type='text'
-          placholder='Name'
+          placeholder='name'
         />
         <input
           value={email}
