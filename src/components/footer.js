@@ -1,5 +1,5 @@
 import React from 'react';
-function Footer({ currentPage, handlePageChange }) {
+function Footer() {
     return (
         <footer class="footer">
 
