@@ -1,10 +1,10 @@
 import React from 'react';
-import picture from '../Jatescreenshot.png';
-import picture2 from '../Techscreenshot.png'; 
-import picture3 from '../Ghosttrackerscreenshot.png';
-import picture4 from '../Notetakerscreenshot.png';
-import picture5 from '../weatherdashscreenshot.png';
-import picture6 from '../Workdayscreenshot.png';
+import picture from '../images/Jatescreenshot.png';
+import picture2 from '../images/Techscreenshot.png'; 
+import picture3 from '../images/Ghosttrackerscreenshot.png';
+import picture4 from '../images/Notetakerscreenshot.png';
+import picture5 from '../images/weatherdashscreenshot.png';
+import picture6 from '../images/Workdayscreenshot.png';
 export default function Portfolio() {
   return (
     <div>

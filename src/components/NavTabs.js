@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './styles/NavTabs.css';
+import './styles/styles.css';
 
 const styles = {
   navTabsStyle: {
