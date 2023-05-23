@@ -7,7 +7,8 @@
 }
 
 body {
-  background-color: rgb(34, 25, 160);
+  background-color: rgb(16, 11, 78);
+  align-items: center;
 }
 
 
@@ -36,6 +37,19 @@ h1 {
   }
 
   .footer {
-  
-    background-color: rgb(43, 255, 0);
+    list-style-type: none;
+    background-color: rgb(217, 255, 0);
+    clear: both;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%
   }
+  .footer li {
+    display: inline-block;
+    padding: 3px;
+  }
+
+
+  
+
