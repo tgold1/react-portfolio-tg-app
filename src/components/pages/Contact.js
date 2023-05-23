@@ -55,7 +55,7 @@ export default function Form() {
           type="email"
           placeholder="email"
         />
-        <input
+        <textarea
           value={message}
           name='message'
           onChange={handleInputChange}
