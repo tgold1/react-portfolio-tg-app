@@ -38,7 +38,6 @@ export default function Home() {
         . Express<br/>
         . MYSQL, Sequelize<br/>
         . MongoDB, Mongoose<br/>
-        . REST<br/>
         . GraphQL<br/>
       </p>
     </div>
