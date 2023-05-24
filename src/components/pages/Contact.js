@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 
 import { validateEmail } from '../../utils/helpers';
+import { validateMessage } from '../../utils/helpers';
+import { validateName } from '../../utils/helpers';
 
 export default function Form() {
   const [Name, setName] = useState('')
@@ -28,7 +30,14 @@ export default function Form() {
     if (!validateEmail(email)) {
       setErrorMessage('Email is invalid');
       return;
-    
+    } 
+    if  (!validateMessage(message)) {
+      setErrorMessage('Must type message');
+      return;
+    } 
+    if(!validateName(Name)) {
+      setErrorMessage('Must type Name');
+      return;
     }
     alert (`Hello ${Name}`);
 

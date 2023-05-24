@@ -57,7 +57,7 @@ export default function Portfolio() {
 
       <div class="row">
         <div class="col-sm-6">
-      <div class="card" style={{width: 18}}>
+      <div class="card" style={{width: 40}}>
       <a href="  https://tgold1.github.io/work-day-scheduler/" target="_blank">
       <img src= {picture6} alt="picture of Work Day Scheduler" width={200} />Workday Scheduler</a>
           </div>
