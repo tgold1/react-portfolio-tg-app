@@ -28,12 +28,17 @@ h1 {
   
   .nav a {
     color: rgb(255, 255, 255);
+    background-color: #929a1b;
     font-size: 1.3rem;
     text-decoration: none;
     text-align: end;
     justify-content: end;
     margin: 5px;
     line-height: 3;
+  }
+
+  .row {
+    display: inline-block
   }
 
   .footer {
