@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import styles from '../styles/styles.css';
 import { validateEmail } from '../../utils/helpers';
 import { validateMessage } from '../../utils/helpers';
 import { validateName } from '../../utils/helpers';
@@ -49,7 +49,7 @@ export default function Form() {
   return (
     <div>
       <h1>Contact Me</h1>
-      <form className='form>'>
+      <form className='form'>
         <input
           value={Name}
           name='Name'
@@ -64,7 +64,7 @@ export default function Form() {
           type="email"
           placeholder="email"
         />
-        <textarea
+        <input
           value={message}
           name='message'
           onChange={handleInputChange}

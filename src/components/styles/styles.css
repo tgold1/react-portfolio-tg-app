@@ -38,7 +38,23 @@ h1 {
   }
 
   .row {
-    display: inline-block
+    display: inline-block;
+    flex-wrap: wrap
+  }
+
+  .form {
+    margin: 30px;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
   }
 
   .footer {
