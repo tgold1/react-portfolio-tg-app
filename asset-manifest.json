@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-tg-app/static/css/main.6ec70c00.css",
+    "main.js": "/react-portfolio-tg-app/static/js/main.11fac859.js",
+    "static/media/IMG_0269.jpg": "/react-portfolio-tg-app/static/media/IMG_0269.f551ba891d46812e83e2.jpg",
+    "static/media/Ghosttrackerscreenshot.png": "/react-portfolio-tg-app/static/media/Ghosttrackerscreenshot.ccf0f9146ac475a892cd.png",
+    "static/media/Workdayscreenshot.png": "/react-portfolio-tg-app/static/media/Workdayscreenshot.89d370dbebd6c377f7ca.png",
+    "static/media/Techscreenshot.png": "/react-portfolio-tg-app/static/media/Techscreenshot.7dea72b47e50818ad827.png",
+    "static/media/Notetakerscreenshot.png": "/react-portfolio-tg-app/static/media/Notetakerscreenshot.1adc08fbee5510aea470.png",
+    "static/media/weatherdashscreenshot.png": "/react-portfolio-tg-app/static/media/weatherdashscreenshot.362447571c60655984e6.png",
+    "static/media/Jatescreenshot.png": "/react-portfolio-tg-app/static/media/Jatescreenshot.0e90985b89a9a11192ca.png",
+    "index.html": "/react-portfolio-tg-app/index.html",
+    "main.6ec70c00.css.map": "/react-portfolio-tg-app/static/css/main.6ec70c00.css.map",
+    "main.11fac859.js.map": "/react-portfolio-tg-app/static/js/main.11fac859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec70c00.css",
+    "static/js/main.11fac859.js"
+  ]
+}
