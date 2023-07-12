@@ -20,7 +20,7 @@ export default function Home() {
       <p>
         Page {pageNumber} of {numPages}
       </p> */}
-<a href="https://drive.google.com/file/d/168nqu9pfXg8U26MSAPQGQhbS9DYs5_ML/view?usp=sharing" target="_blank">Download my resume here</a>
+<a href="https://docs.google.com/document/d/1OQHIo5E46mpUBhHkjuEZW_WwCLwBcfpz3QTomU1Kzas/edit?usp=sharing" target="_blank">Download my resume here</a>
       <h2>Front-End Proficiencies</h2>
       <p>
         . HTML<br/>
